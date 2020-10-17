@@ -1,15 +1,12 @@
-# Employee Directory
+# Google react demo books
   
-  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/workout-tracker) 
-  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/workout-tracker) 
+  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/google_react_demo) 
+  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/google_react_demo) 
   ![License](https://img.shields.io/badge/license-MIT-blue) 
   ![Version](https://img.shields.io/badge/version-1.0-red) 
-  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/workout-tracker) 
-  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/workout-tracker) 
-  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/workout-tracker)
-
-  # Welcome to Employee Directory
-
+  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/google_react_demo) 
+  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/google_react_demo) 
+  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/google_react_demo)
 
   ## Table of Contents
 
@@ -26,7 +23,7 @@
 
   ## Description
 
- This is an application use React.js to create an interactive and dynamic employee directory. The page allows users to sort employees by first name, last name or the state of their branch. The application UI is built to be modular to allow reuse of components.
+This application allow to search and organize books for future purchase/reading. It is built using react.js and the google books API. The application is built to be modular to allow reuse of components.
 
   ## Installation
 To local installation, clone this GitHub repository and then:
@@ -51,7 +48,7 @@ You will also see any lint errors in the console.
 
   ## Demonstration
 
-  Access the live application [here](https://lcerdeira.github.io/empdir/).
+  Access the live application [here](https://lcerdeira.github.io/google_react_demo).
     
   ## License
 
@@ -70,9 +67,6 @@ You will also see any lint errors in the console.
 
   ```npm test```
 
-  ## Help
-
-  Deploy in gitHub [here](https://create-react-app.dev/docs/deployment/#github-pages).
 
   ## Questions
 
