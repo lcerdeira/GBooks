@@ -48,7 +48,7 @@ You will also see any lint errors in the console.
 
   ## Demonstration
 
-  Access the live application [here](https://lcerdeira.github.io/google_react_demo).
+  Access the live application [here](https://mighty-eyrie-72959.herokuapp.com/).
     
   ## License
 
